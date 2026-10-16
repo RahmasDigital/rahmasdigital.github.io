@@ -7,6 +7,7 @@ Professional responsive landing page for Rahmas Digital Marketing (Chennai, Indi
 - `style.css` — responsive layout, colors and animations
 - `script.js` — mobile navigation, automatic service selection, WhatsApp enquiry form
 - `favicon.svg` — small branded website icon
+- `rahmas-logo.png` — original Rahmas logo cropped (without redesign) from your uploaded business card; used in the header and footer
 - `.nojekyll` — disables unnecessary Jekyll processing on GitHub Pages
 
 No build step, Node.js, or paid hosting is needed. Google Fonts requires an internet connection; system fonts are used when unavailable.
